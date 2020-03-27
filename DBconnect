@@ -1,0 +1,13 @@
+<?php
+$server="localhost";
+$user="root";
+$Password="";
+$db="Bucket";
+$conn=mysqli_connect($server,$user,$Password,$db);
+if(!$conn){
+    die("mysqli_fail to connect on server");
+}else{
+   echo "connection succeed";
+}
+
+?>
