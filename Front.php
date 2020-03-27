@@ -12,7 +12,7 @@
        Do you have an Account?</h2>
        <div class="log">
            <a href="Reg.php" class="TK"> Register </a>
-           <a href="app.php" class="TK"> Login </a>
+           <a href="Login.php" class="TK"> Login </a>
       </div>
 </body>
   
