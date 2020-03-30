@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+#sidebar{
+    position: fixed;
+    width: 15%;
+    height: 100%;
+    background:rgb(13,107,54);
+}
+
+#sidebar ul li {
+    list-style-type: none;
+    color:rgba(230,230,230,0.9);
+    padding: 15px 10px;
+    border-bottom: 1px solid rgba(100,100,100,0)
+}
+ 
+h1{
+    text-align: center;
+}
+a{
+    color:rgba(230,230,230,0.9);
+    padding: 15px 10px;
+    text-decoration: none;
+}
+.re{
+    height: 60%;
+    
+}
+#pro{
+    box-shadow: 0 0 3px 0  rgb(13,107,54); 
+    text-align: center;
+    display: flex;
+
+}
+
+ img{
+    width: 100px;
+    margin-top: -20px;
+}
+
+
+
