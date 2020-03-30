@@ -1,0 +1,79 @@
+.one{
+    width: 300px;
+    box-shadow: 0 0 3px 0  rgb(13,107,54); 
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+    border-radius: 10px;
+    border-color:rgb(13,107,54);
+}
+h3{
+    color: rgb(13,107,54);
+    margin-bottom: 30px;
+}
+
+img{
+    width: 70px;
+    margin-top: -20px;
+}
+
+.now{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid rgb(13,107,54) ;
+    width: 100%;
+    outline:none;
+}
+.button{
+    background-color:rgb(13,107,54);
+    color: white;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.new{
+    position: absolute;
+    width: 1200px;
+    margin-left: 0;
+    margin-top: 0;
+    font-family:sans-serif;
+    text-align: center;
+}
+.new h2{
+    
+    font-size: 50px;
+    text-transform: capitalize;
+    font-weight: none;
+    margin-top:200px;
+    
+}
+
+.log{
+    margin-top: 30px;
+   
+}
+
+.log a{
+    display: inline-block;
+    margin-left: 40px;
+    border: 1px solid rgb(13,107,54);
+    padding: 10px 30px;
+    font-size: 13px;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: sans-serif;
+}
+
+.TK{
+    background-color:rgb(13,107,54);
+}
